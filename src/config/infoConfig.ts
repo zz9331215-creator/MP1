@@ -8,7 +8,7 @@ export const headline = '个人介绍'
 export const introduction =
   "我是郑志鸿，来自广东汕头，兴趣爱好包括足球、电影与摄影。"
 export const email = 'zz9331215@gmail.com'
-export const githubUsername = 'derekhut'
+export const githubUsername = 'zz9331215-creator'
 
 // about page
 export const aboutMeHeadline = '浪漫的思考，具体的生活'
@@ -31,9 +31,9 @@ export type SocialLinkType = {
 
 export const socialLinks: Array<SocialLinkType> = [
   {
-    name: 'Tiktok',
-    icon: 'tiktok',
-    href: 'https://www.tiktok.com/@harvard?lang=en',
+    name: '抖音',
+    icon: 'tiktok', 
+    href: 'https://v.douyin.com/aafSolV5BAQ/',
   },
   {
     name: 'Bilibili',
