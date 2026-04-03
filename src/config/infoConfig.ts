@@ -4,24 +4,22 @@ export * from './career'
 
 // personal info
 export const name = 'ZZH'
-export const headline = 'Study in GCU'
+export const headline = '个人介绍'
 export const introduction =
-  "My name is Zheng Zhihong, hailing from Shantou, Guangdong Province. My interests include football, cinema, and photography."
+  "我是郑志鸿，来自广东汕头，兴趣爱好包括足球、电影与摄影。"
 export const email = 'zz9331215@gmail.com'
 export const githubUsername = 'derekhut'
 
 // about page
-export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
+export const aboutMeHeadline = '浪漫的思考，具体的生活'
 export const aboutParagraphs = [
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020.",
-  'Currently I am working on a new course called AI Camp, an innovative course where high school students create real-world products and startups while exploring the frontiers of AI.',
-  "I started this blog to share the insights I learn every day. Most blogs focus on education in Artificial Intelligence and general computer science, while others share the life lessons I've learned.",
+  "很喜欢的一句话是，这世界上只有一种真正的英雄主义，就是当你看清生活的真相之后，依然热爱它",
 ]
 
 // blog
-export const blogHeadLine = "What I've thinking about."
+export const blogHeadLine = "我的思考与分享"
 export const blogIntro =
-  "I've written something about AI, programming and life."
+  "分享一些个人学习笔记与心得"
 
 // social links
 export type SocialLinkType = {
@@ -40,7 +38,7 @@ export const socialLinks: Array<SocialLinkType> = [
   {
     name: 'Bilibili',
     icon: 'bilibili',
-    href: 'https://space.bilibili.com/349721082',
+    href: 'https://space.bilibili.com/1035119139',
   },
 ]
 
