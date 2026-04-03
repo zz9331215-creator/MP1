@@ -7,7 +7,7 @@ export const name = 'ZZH'
 export const headline = 'Study in GCU'
 export const introduction =
   "My name is Zheng Zhihong, hailing from Shantou, Guangdong Province. My interests include football, cinema, and photography."
-export const email = 'tong.hu@scls-sh.org'
+export const email = 'zz9331215@gmail.com'
 export const githubUsername = 'derekhut'
 
 // about page
